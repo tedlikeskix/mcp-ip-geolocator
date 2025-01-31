@@ -1,4 +1,5 @@
 # MCP IP Geolocation Server
+[![smithery badge](https://smithery.ai/badge/@tedlikeskix/mcp-ip-geolocator)](https://smithery.ai/server/@tedlikeskix/mcp-ip-geolocator)
 
 A Model Context Protocol (MCP) server that provides IP geolocation services via IP-API.com. Free to use, no API key required.
 
@@ -12,6 +13,15 @@ A Model Context Protocol (MCP) server that provides IP geolocation services via 
 
 ## Quick Start
 
+### Installing via Smithery
+
+To install MCP IP Geolocation Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@tedlikeskix/mcp-ip-geolocator):
+
+```bash
+npx -y @smithery/cli install @tedlikeskix/mcp-ip-geolocator --client claude
+```
+
+### Manual Installation
 1. Install globally:
 ```bash
 npm install -g mcp-ip-geolocator
