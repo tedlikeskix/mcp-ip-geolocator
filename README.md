@@ -1,3 +1,5 @@
+### Hey! This project is still in the early stages, and I'm figuring things out as I go. If you spot anything that could be improved, fixed, or optimized, I’d really appreciate your help!
+
 # MCP IP Geolocation Server
 
 A Model Context Protocol (MCP) server that provides IP geolocation services via IP-API.com. Free to use, no API key required.
